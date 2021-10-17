@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JAM Stack Blog](https://github.com/obeymyshinnyrod/import-blog)
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Sequalize**
 
 - 👯 I’m looking to collaborate on **Angular Chat App**
 
