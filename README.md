@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **mdmiswah@gmail.com**
+- 📫 How to reach me **miswah.md@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
