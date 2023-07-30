@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miswah" alt="obeymyshinnyrod" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Genei](https://github.com/miswah/resume-builder)
+- 🔭 I’m currently working on [Resume Genie](https://github.com/miswah/resume-builder)
 
 - 🌱 I’m currently learning **React**
 
