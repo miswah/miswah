@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miswah" alt="obeymyshinnyrod" /></a> </p>
 
-- 🔭 I’m currently working on [JAM Stack Blog](https://github.com/miswah/import-blog)
+- 🔭 I’m currently working on [Resume Genei](https://github.com/miswah/resume-builder)
 
-- 🌱 I’m currently learning **Sequalize**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Angular Chat App**
+- 👯 I’m looking to collaborate on **Angular Blog App**
 
 - 💬 Ask me about **Angular**
 
